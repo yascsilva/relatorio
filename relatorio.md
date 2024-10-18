@@ -172,4 +172,4 @@ Transações garantem que um conjunto de operações de banco de dados seja trat
 
   - **COMMIT:** Confirma todas as operações da transação, tornando as mudanças permanentes.
   - **ROLLBACK:** Reverte todas as operações da transação, restaurando o banco de dados ao estado anterior.
-  - **Cenários Práticos:** Transações são críticas em sistemas financeiros, como bancos e e-commerce, onde falhas no processo de transação podem levar a inconsistências de dados.
+- **Cenários Práticos:** Transações são críticas em sistemas financeiros, como bancos e e-commerce, onde falhas no processo de transação podem levar a inconsistências de dados.
