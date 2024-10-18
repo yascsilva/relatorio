@@ -4,7 +4,7 @@ Este documento é um relatório  sobre a apresentação do conteúdo de Banco de
 ### 1. Operadores de Agregação
 Operadores de agregação permitem realizar cálculos em um conjunto de dados, como somas, médias e contagens. Eles são essenciais em consultas SQL que exigem análises estatísticas de dados.
 
-- **SUM:** Calcula a soma de todos os valores numéricos de uma coluna. Útil para totalizar quantidades ou preços.
+- SUM: Calcula a soma de todos os valores numéricos de uma coluna. Útil para totalizar quantidades ou preços.
 
 Exemplo:
 
